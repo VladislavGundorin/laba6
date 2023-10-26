@@ -5,4 +5,7 @@ class Main{
     public class oneClass{
         Sustem.out.println("Первый класс!")
     }
+    public class twoClass{
+        Sustem.out.println("Второй класс!")
+    }
 }
