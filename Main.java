@@ -8,4 +8,7 @@ class Main{
     public class twoClass{
         Sustem.out.println("Второй класс!")
     }
+    public class threeClass{
+        Sustem.out.println("Третий класс!");
+    }
 }
