@@ -11,4 +11,7 @@ class Main{
     public class threeClass{
         Sustem.out.println("Третий класс!");
     }
+    public class fourClass{
+        Sustem.out.println("Четвертый класс!");
+    }
 }
