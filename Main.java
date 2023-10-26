@@ -13,5 +13,15 @@ class Main{
     }
     public class four{
         System.out.print("Внесите изменения в ветке main");
+        Sustem.out.println("Первый класс!")
+    }
+    public class twoClass{
+        Sustem.out.println("Второй класс!")
+    }
+    public class threeClass{
+        Sustem.out.println("Третий класс!");
+    }
+    public class fourClass{
+        Sustem.out.println("Четвертый класс!");
     }
 }
