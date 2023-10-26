@@ -12,6 +12,6 @@ class Main{
 
     }
     public class four{
-
+        System.out.print("Внесите изменения в ветке main");
     }
 }
